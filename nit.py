@@ -49,7 +49,7 @@ def filter_and_plot(institute, seat_type, gender, quota):
     st.pyplot(plt)
 
 def main():
-    st.title("GFI's Closing Ranks Over the Years")
+    st.title("GFTI's Closing Ranks Over the Years")
 
     institutes = [
         "Assam University, Silchar",
